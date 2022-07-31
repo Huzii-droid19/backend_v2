@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "zweejpeifckbyt",
+    "password": "123a7e4ae581cf9882535bd9e0144e366cd6715bbbfb587b1fafd5d6f61e74cb",
+    "database": "delciu50egmanr",
+    "host": "ec2-3-224-125-117.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    },
+    "freezeTableName": true
+  },
+  "test": {
+    "username": "zweejpeifckbyt",
+    "password": "123a7e4ae581cf9882535bd9e0144e366cd6715bbbfb587b1fafd5d6f61e74cb",
+    "database": "delciu50egmanr",
+    "host": "ec2-3-224-125-117.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    },
+    "freezeTableName": true
+  },
+  "production": {
+    "username": "zweejpeifckbyt",
+    "password": "123a7e4ae581cf9882535bd9e0144e366cd6715bbbfb587b1fafd5d6f61e74cb",
+    "database": "delciu50egmanr",
+    "host": "ec2-3-224-125-117.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "rejectUnauthorized": false
+      }
+    },
+    "freezeTableName": true
+  }
+}
